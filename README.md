@@ -5,6 +5,8 @@
 ⚡ Building **custom plugins** and **themes**  
 ✨ Creating **micro SaaS** projects  
 
+📚 **Currently learning:** Exploring the world of **Go**  
+
 📫 **How to reach me?**  
 [Twitter](https://x.com/egorleet) | [Telegram](https://t.me/egorleet) | [Email](mailto:mail@egor.im)  
 
