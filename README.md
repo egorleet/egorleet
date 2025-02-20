@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hello! I'm Egor
+
+💫 **WordPress & PHP Developer**  
+🫶 Love **Tailwind CSS** for its simplicity and flexibility  
+⚡ Building **custom plugins** and **themes**  
+✨ Creating **micro SaaS** projects  
+
+📫 **How to reach me?**  
+[Twitter](https://x.com/egorleet) | [Telegram](https://t.me/egorleet) | [Email](mailto:mail@egor.im)  
+
+---
 
 <!--
 **egorleet/egorleet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
