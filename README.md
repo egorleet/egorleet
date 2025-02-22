@@ -8,7 +8,7 @@
 📚 **Currently learning:** Exploring the world of **Go**  
 
 📫 **How to reach me?**  
-[X/Twitter](https://x.com/egorleet) | [Telegram](https://t.me/egorleet) | [Email](mailto:mail@egor.im)
+[X / Twitter](https://x.com/egorleet) | [Telegram](https://t.me/egorleet) | [Email](mailto:mail@egor.im)
 
 <!--
 **egorleet/egorleet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
