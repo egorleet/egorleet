@@ -13,6 +13,8 @@
 ![](https://komarev.com/ghpvc/?username=egorleet&color=green)
 ![](https://hit.yhype.me/github/profile?account_id=9061147)
 
+📌 Check out [my Gist profile on GitHub](https://gist.github.com/egorleet)
+
 <!--
 **egorleet/egorleet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
